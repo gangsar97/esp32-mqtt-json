@@ -1,6 +1,6 @@
-# esp32-mqtt-tls
+# esp32-mqtt-json
 
-Basic example to send data in JSON format over MQTT Secure Connection using SSL/TLS.
+Basic example to send data in JSON format over MQTT.
 
 External Library Requirement for Arduino IDE:
 - PubSubClient https://github.com/knolleary/pubsubclient
